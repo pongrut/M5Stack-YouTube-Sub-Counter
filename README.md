@@ -1,5 +1,5 @@
 # M5Stack-YouTube-Sub-Counter
-YouTube Channel Subscribers Display
+YouTube Channel Subscribers on M5Stack Display
 
 This program was inspired by Arduino YouTube API Library, in order to get Google Apps API key
 see this link https://github.com/witnessmenow/arduino-youtube-api
