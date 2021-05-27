@@ -129,7 +129,7 @@ while True:
       label1.setText("Views: ")
       label_view.setText('{:,}'.format(int(view_count)))
       # Calculate next end time in milisecond
-      target_time = current_time + 1000*timer_sec
+      target_time = current_time + timer_ms
       # Reset counter
       counter = int(timer_ms/1000)
 
