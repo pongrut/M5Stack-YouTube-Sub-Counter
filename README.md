@@ -1,5 +1,5 @@
 # M5Stack-YouTube-Sub-Counter
-**YouTube Channel Subscribers on M5Stack Display
+YouTube Channel Subscribers on M5Stack Display
 
 Program read API Key and other configuration file from SD card
 and use them to connect google API to get your Youtube channel statistics
