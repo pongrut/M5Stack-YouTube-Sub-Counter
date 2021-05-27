@@ -4,6 +4,12 @@ The Program read API Key and other configuration file from SD card
 and use them to connect google API to get your Youtube channel statistics
 then refresh every specific period of time as you configured it.
 
+## Find your channel's user ID & channel ID
+1. Sign in to YouTube.
+2. In the top right, click your profile picture and then Settings Settings.
+3. From the left Menu, select Advanced settings https://www.youtube.com/account_advanced
+4. You’ll see your channel’s user and channel IDs.
+
 
 ## Find your Google API Key
 1. Go to Google Cloud Console and create a new project if you don't have one https://console.developers.google.com/
